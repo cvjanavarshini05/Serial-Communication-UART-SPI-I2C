@@ -34,7 +34,6 @@ A new reading is displayed approximately once every second.
 | SDA | A4 |
 | SCL | A5 |
 
-**Note:** Check the voltage requirements of your particular BMP180 breakout board. The bare BMP180 sensor is a 3.3 V device; do not connect a bare sensor directly to 5 V.
 
 ## 5. Communication Protocols
 
